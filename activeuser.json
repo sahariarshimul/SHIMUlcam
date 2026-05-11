@@ -21,6 +21,13 @@
         "Allowoffline": true
     },
     {
+        "device_id": "428ed95de0afdc2a",
+        "username": "hasif2",
+        "password": "12345",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
