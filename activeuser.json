@@ -14,6 +14,13 @@
         "Allowoffline": true
     },
     {
+        "device_id": "5b471e8eb037c859",
+        "username": "nova",
+        "password": "12345",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "25b52c23f01c3fca",
         "username": "unknown",
         "password": "12345",
